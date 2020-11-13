@@ -14,9 +14,10 @@ import tkinter as tk
 -import math
 
 Widgets añadidos: 
-1. MessageBox: Genera una ventana de error, en caso de que se realicen operaciones con numeros complejos o indeterminaciones. Ademas produce advertencias si los campos de texto estan vacios.
+1. MessageBox: Genera una ventana de error, en caso de que se realicen operaciones con numeros complejos o indeterminaciones. Ademas produce advertencias si los campos de texto estan vacios. De igual manera, si el usuario hace la operacion correctamente, genera una ventana en la que muestra el resultado.
 2. Notebook widget: Permite generar pestañas (Tabs).
 3. ProgressBar: Representa en que pestaña se encuentre el usuario. 
 
 La calculadora puede variar entre operaciones basicas y otra pestaña de operaciones mas complejas como Ln, exp, y se tiene la posibilidad e cambiar el color de fondo de la calculadora a un aleatorio (cada pestaña es independiente del color de la otra).
 
+![alt text](https://raw.githubusercontent.com/AlejandroMahecha/CalculadoraTk/branch/path/to/img.png)
