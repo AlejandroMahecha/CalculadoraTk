@@ -20,4 +20,4 @@ Widgets añadidos:
 
 La calculadora puede variar entre operaciones basicas y otra pestaña de operaciones mas complejas como Ln, exp, y se tiene la posibilidad e cambiar el color de fondo de la calculadora a un aleatorio (cada pestaña es independiente del color de la otra).
 
-
+![Presentacion](https://user-images.githubusercontent.com/73804094/99122177-d958db00-25cb-11eb-8f29-3265428fa484.png)
