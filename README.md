@@ -6,7 +6,7 @@ Este proyecto consiste en el diseño de una calculadora con la libreria Tkinter.
 
 El programa necesita las siguientes librerias (pero no requieren instalación): 
 
--import tkinter as tk
+import tkinter as tk
 -from tkinter.ttk import Progressbar
 -from tkinter import messagebox
 -from tkinter import ttk
